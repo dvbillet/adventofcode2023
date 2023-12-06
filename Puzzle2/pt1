@@ -1,4 +1,5 @@
 import re
+# Find if a game is playable
 
 fid = open('Puzzle2\input.txt')
 # fid = open('Puzzle2\example.txt')
